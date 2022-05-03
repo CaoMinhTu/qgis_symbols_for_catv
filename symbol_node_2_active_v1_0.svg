@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.88"
+   height="11.88"
+   id="svg3823"
+   version="1.1"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)"
+   sodipodi:docname="symbol_node_2_active.svg">
+  <defs
+     id="defs3825" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="32"
+     inkscape:cx="0.5509123"
+     inkscape:cy="5.9914784"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1538"
+     inkscape:window-height="877"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-page="false"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata3828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,-468.12)">
+    <rect
+       style="fill:param(fill) #ffc300;fill-opacity:1;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect838"
+       width="5.8739901"
+       height="11.72399"
+       x="2.9880049"
+       y="468.21301" />
+    <path
+       style="fill:param(outline) #000000;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+       d="m 3.6191406,473.73719 2.3066406,-4.92969 2.3066407,4.92969 z"
+       id="path960" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.180047;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path949"
+       cx="5.9249997"
+       cy="476.62814"
+       r="2.3068516" />
+    <path
+       style="display:inline;fill:none;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5.5151561,477.10073 1.2171597,1.23129"
+       id="path3826-0-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.3896858,476.21603 1.21725,1.23129"
+       id="path3826-6-3-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:param(outline) #000000;fill-opacity:1;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 5.2065261,477.41293 0.6172597,-0.62441 -1.3712097,-0.76269 z"
+       id="path878-4-0" />
+    <path
+       style="fill:param(outline) #000000;fill-opacity:1;stroke:param(outline) #000000;stroke-width:param(outline-width) 0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 6.0810558,476.52823 0.61726,-0.62441 -1.3712097,-0.76269 z"
+       id="path878-3-9-0" />
+  </g>
+</svg>
