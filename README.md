@@ -1,1 +1,1 @@
-# qgis_symbols_for_catv
+# Qgis point symbols for CATV device
